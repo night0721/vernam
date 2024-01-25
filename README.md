@@ -10,6 +10,10 @@ $ make
 # Usage
 ```sh
 $ ./vernam
+# To encrypt/decrypt
+$ vernam -i message_to_tom -k key-1 -o encrypted_to_tom
+# To generate key
+$ vernam -g <keys_count>
 ```
 
 # Features
