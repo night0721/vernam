@@ -1,5 +1,5 @@
-# Vernam CLI Tool
-Perfect secrecy cipher algorithm with truly random key implemented in C
+# vernam
+CLI implementation of Vernam cipher with perfect secrecy for communication
 
 # Features
 - Support command line arguments to encrypt
