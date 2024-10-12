@@ -7,7 +7,7 @@ CLI implementation of Vernam cipher with perfect secrecy for communication
 
 # Usage
 ```sh
-$ ./vernam
+$ vernam
 # To encrypt/decrypt
 $ vernam -i message_to_tom -k key-1 -o encrypted_to_tom
 # To generate key
